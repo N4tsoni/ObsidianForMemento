@@ -1,0 +1,48 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "➕",
+      "⏭",
+      "🏬",
+      "❓",
+      "📠"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Apprentissage Web/Front/HTML.md": "🖥",
+  "Apprentissage Web/Front/CSS.md": "🖥",
+  "Apprentissage Web/Front/JavaScript.md": "🖥",
+  "Apprentissage Web/Front/VueJS/VueJS.md": "🖥",
+  "Apprentissage Web/Front/VueJS/WAVE-UI.md": "🖥",
+  "Apprentissage Web": "🫥",
+  "Git.md": "🔗",
+  "PROJET_Memento/Les fichiers du Projet.md": "📁",
+  "Apprentissage Web/Back/Docker.md": "🐋",
+  "Apprentissage Web/Back/API Rest et Mode de communication.md": "⚙",
+  "Apprentissage Web/Back/Requettes HTTP.md": "📧",
+  "Apprentissage Web/Back/NODE.JS.md": "🟢",
+  "Apprentissage Web/Back/SGBD-SQL.md": "📠",
+  "PROJET_Memento/Memento c'est quoi.md": "❓",
+  "PROJET_Memento/Organisation et structure du projet.md": "🏬",
+  "PROJET_Memento/Piste d'amélioration.md": "⏭",
+  "PROJET_Memento/Ce qu'on a rajouté.md": "➕"
+}
